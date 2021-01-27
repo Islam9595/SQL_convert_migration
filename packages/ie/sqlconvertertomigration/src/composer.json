@@ -1,0 +1,16 @@
+{
+    "name": "ie/sql_converter_migration",
+    "description": "convert sql to migration",
+    "type": "composer-plugin",
+    "require": {
+        "ie/sql_converter_migration": "1.0.0",
+        "doctrine/dbal": "2.12"
+    },
+    "authors": [
+        {
+            "name": "Islam9595",
+            "email": "iemam@qurtobasolutions.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
